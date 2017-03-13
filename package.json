@@ -1,0 +1,17 @@
+{
+  "name": "ssl_test",
+  "version": "1.0.0",
+  "description": "sample app to show how bad TLS/SSL sucks in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert-plus": "^1.0.0",
+    "bunyan": "^1.8.8",
+    "restify": "^4.3.0",
+    "sshpk": "^1.11.0"
+  }
+}
